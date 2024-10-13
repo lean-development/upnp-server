@@ -1,2 +1,2 @@
 # upnp-server
-Lean UPnP Server written in Kotlin
+Lean Zero-Config Networking Library written in Kotlin
