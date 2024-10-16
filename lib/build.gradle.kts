@@ -24,6 +24,7 @@ dependencies {
     implementation(libs.slf4j)
 
     testImplementation(libs.kotlin.test)
+    testImplementation(libs.coroutines.test)
     testImplementation(libs.mockito)
 
 }
